@@ -62,5 +62,11 @@ html {
   padding: .5em .75em;
   background-color: #ccc;
   border-radius: 4px;
-  colour
+  color: #000;
+  text-decoration: none;
+}
+
+.cards a:hover {
+  background-color: #333;
+  color: #fff
 }
